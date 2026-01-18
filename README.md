@@ -4,6 +4,7 @@ Registers Vectored Exception Handlers by directly manipulating ntdll's internal 
 
 **Tested on:** Windows 11 25H2 (Build 26200.7623)
 - ToDo: Add BoyerMoore search / AOB - use zydis/capstone to disassm at runtime instead of hardcoding.
+- For Sig look into: https://github.com/C5Hackr/WinDumper
 ## What Is This?
 
 Instead of calling `RtlAddVectoredExceptionHandler` like a normal person, we locate the internal handler list in ntdll and insert our handler directly.
